@@ -1,4 +1,4 @@
 import { defineChain } from "thirdweb";
-// import { BaseChain } from "thirdweb/chains";
+// import { Base } from "thirdweb/chains";
 
 export const chain = defineChain( "<8453>" );
